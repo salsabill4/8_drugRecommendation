@@ -13,4 +13,5 @@
 
 # Sentiment Classification model Desc:
 #Method: BERT with oversampling based on hard samples strategy for classification and Bayesian Optimization for search the best hyperparameter configuration
+
 #Acc: 91.82%; F1-score: 87.89%
