@@ -1,8 +1,7 @@
 # 8_drugRecommendation
 
 # Docs Desc:
-#1) kaggleColab.py : for running the code in Kaggle notebook or Google Colab environment
-
+#1) kaggleColab.py : for running the code in Kaggle notebook or Google Colab environment \n
 #2) app.py: for running the Streamlit app
 
 #3) requirements.txt: library that need for Streamlit app
